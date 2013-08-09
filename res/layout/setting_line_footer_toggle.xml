@@ -17,11 +17,11 @@
 */
 -->
 
-<org.espier.ios6ui.IosLikeToggleButton
+<org.espier.ios6.ui.IosLikeToggleButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/toggleButton1"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="ToggleButton"
     android:visibility="gone" >
-</org.espier.ios6ui.IosLikeToggleButton>
+</org.espier.ios6.ui.IosLikeToggleButton>
